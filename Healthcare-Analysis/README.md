@@ -26,10 +26,10 @@ Kaggle — Synthetic Healthcare Dataset
 
 ## Key Insights
 - Cigna and Medicare carry highest patient volume
-- Arthritis and Diabetes are most prevalent 
-  conditions across all age groups
-- Emergency admissions generate highest 
-  average billing amounts
+- Asthma and Hypertension have the highest number
+  of patients across all the medical conditions
+- Chris Hani Baragwnath Hospital and  Steve Biko Academic Hospital
+  have the highest amount to be paid.
 
 ## Project Structure
 - Raw Data — original unmodified Kaggle dataset
