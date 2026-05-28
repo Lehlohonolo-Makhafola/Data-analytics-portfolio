@@ -20,7 +20,7 @@ Kaggle — Synthetic Healthcare Dataset
 - Patient name titles removed using Find and Replace
 - Inconsistent name casing standardized using 
   PROPER formula
-- Billing outliers under $100 flagged using 
+- Billing outliers under R100 flagged using 
   helper column
 - Days Admitted column created using DAYS formula
 
