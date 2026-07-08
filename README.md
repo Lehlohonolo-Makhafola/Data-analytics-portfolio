@@ -50,15 +50,10 @@ Data inconsistencies significantly impacted reported revenue, highlighting the i
 
 ---
 
-### 🌍 Multi-Industry Cost & Financial Analysis (In Progress)
-
-* Analyzing a **messy dataset (2022–2025)** influenced by real-world economic factors
-* Evaluating the impact of:
-
-  * Inflation
-  * Supply chain disruptions
-  * Currency fluctuations
-* Focused on **profitability, cost behavior, and financial performance trends**
+### 🕵️ Credit Card Fraud Detection — Excel Risk Scoring Engine
+A 738-transaction fraud monitoring system built on a custom six-factor risk-scoring model (City, Hour, Velocity, Category, Channel, Limit checks), an interactive dashboard, and a fully documented data-cleaning process. Findings were tested against my own assumptions rather than built to confirm them — e.g., declined transactions aren't meaningfully riskier than approved ones, and "highest total risk" ≠ "highest average risk" per category.
+**Skills:** Formula engineering (nested IF/XLOOKUP/INDEX-MATCH), PivotTables, dashboard design, analytical judgment
+📂 [View project](./Credit-card-dashboard)
 
 ---
 
